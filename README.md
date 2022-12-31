@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on college applications, my personal blogfolio[portfolio]
+- 🔭 I’m currently working on college applications, my personal [blogfolio][portfolio]
 - 🌱 I’m currently learning Next.js through a Udemy course
 - 💬 Ask me about my last run, adventure, or my [blogfolio][portfolio]
 - 📫 How to reach me: email, number, or Discord
