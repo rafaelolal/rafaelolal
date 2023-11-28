@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Rafael | Resume" width="25px" src="https://img.icons8.com/color/48/null/resume.png"/>][resume]
 [<img align="left" alt="Rafael | Resume" width="25px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>][linkedin]
-[<img align="left" alt="Rafael | Blogfolio" width="25px" src="https://cdn-icons-png.flaticon.com/512/4922/4922073.png"/>][blogfolio]
+[<img align="left" alt="Rafael | Blogfolio" width="25px" src="https://global.oregonstate.edu/sites/international.oregonstate.edu/files/APIP/images/blog.png"/>][blogfolio]
 
 [resume]: https://ralmeida.dev/blog/resume
 [linkedin]: https://www.linkedin.com/in/rafael-almeida-386bb0202/
