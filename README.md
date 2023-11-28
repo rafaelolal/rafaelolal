@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on college applications, my personal [blogfolio][portfolio]
-- 🌱 I’m currently learning Next.js through a Udemy course
-- 💬 Ask me about my last run, adventure, or my [blogfolio][portfolio]
-- 📫 How to reach me: email, number, or Discord
+- 🔭 I’m currently a Computer Science student at Bowdoin College. Check out my [blogfolio][blogfolio]!
+- 🌱 I’m currently learning more about SwiftUI after using at the latest HackHarvard
+- 💬 Ask me about my last run, adventure, or my [blogfolio][blogfolio]
+- 📫 How to reach me: [ralmeida@bowdoin.edu][email]
 - ⚡ Fun fact: I'm Brazilian and recently came to the U.S.
 
 ---
@@ -14,7 +14,8 @@
 
 [<img align="left" alt="Rafael | Resume" width="25px" src="https://img.icons8.com/color/48/null/resume.png"/>][resume]
 [<img align="left" alt="Rafael | Resume" width="25px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>][linkedin]
+[<img align="left" alt="Rafael | Blogfolio" width="25px" src="https://cdn-icons-png.flaticon.com/512/4922/4922073.png"/>][blogfolio]
 
 [resume]: https://ralmeida.dev/blog/resume
 [linkedin]: https://www.linkedin.com/in/rafael-almeida-386bb0202/
-[portfolio]: https://ralmeida.dev
+[blogfolio]: https://ralmeida.dev
