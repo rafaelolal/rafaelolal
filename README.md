@@ -3,7 +3,7 @@
 - 🔭 I’m currently a Computer Science student at Bowdoin College. Check out my [blogfolio][blogfolio]!
 - 🌱 I’m currently learning more about SwiftUI after using at the latest HackHarvard
 - 💬 Ask me about my last run, adventure, or my [blogfolio][blogfolio]
-- 📫 How to reach me: [ralmeida@bowdoin.edu][email]
+- 📫 How to reach me: ralmeida@bowdoin.edu
 - ⚡ Fun fact: I'm Brazilian and recently came to the U.S.
 
 ---
