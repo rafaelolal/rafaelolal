@@ -1,21 +1,40 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Computer Science student at Bowdoin College. Check out my [blogfolio][blogfolio]!
-- 🌱 I’m currently learning more about SwiftUI after using at the latest HackHarvard
-- 💬 Ask me about my last run, adventure, or my [blogfolio][blogfolio]
-- 📫 How to reach me: [email](ralmeida@bowdoin.edu) / [resume](http://ralmeida.dev/blog/resume)
-- ⚡ Fun fact: I'm Brazilian and recently came to the U.S.
+- 🔭 I’m currently a Computer Science student at Bowdoin College. Check out my [portfolio][blogfolio]!
+- 🌱 I’m currently trying to develop greater fluency in different languages by practicing on LeetCode.
+- 💬 Ask me about what video game I am playing the most.
+- 📫 How to reach me: [email](contact@ralmeida.dev), [LinkedIn][linkedin]
+- ⚡ Fun fact: I can do 20 strict pull-ups in a row!
 
----
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelolal&show_icons=true&theme=prussian)
----
+### Stats
 
-### Socials
+<p align="center">
+  </br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=rafaelolal&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
+  </br>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelolal&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight>
+  
+  </br>
+  </br>
 
-[<img align="left" alt="Rafael | Resume" width="25px" src="https://img.icons8.com/color/48/null/resume.png"/>][resume]
-[<img align="left" alt="Rafael | Resume" width="25px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>][linkedin]
-[<img align="left" alt="Rafael | Blogfolio" width="25px" src="https://global.oregonstate.edu/sites/international.oregonstate.edu/files/APIP/images/blog.png"/>][blogfolio]
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rafaelolal&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=495&theme=tokyonight" />
+  </a>
 
-[resume]: https://ralmeida.dev/blog/resume
-[linkedin]: https://www.linkedin.com/in/rafael-almeida-386bb0202/
-[blogfolio]: https://ralmeida.dev
+  </br>
+  </br>
+
+  <a href="">
+    <img src="https://leetcode.card.workers.dev/rafaelpbcp?theme=dark&font=&extension=activity" />
+  </a>
+</p>
+
+[linkedin]: https://www.linkedin.com/in/ralmeidadev/
+[blogfolio]: https://ralmeida.dev/blog/portfolio
