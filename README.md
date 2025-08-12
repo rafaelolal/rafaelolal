@@ -32,9 +32,9 @@
   </br>
 
   <a href="">
-    <img src="https://leetcode.card.workers.dev/rafaelpbcp?theme=dark&font=&extension=activity" />
+    <img src="https://leetcode.card.workers.dev/rafaelolal?theme=dark&font=&extension=activity" />
   </a>
 </p>
 
-[linkedin]: https://www.linkedin.com/in/ralmeidadev/
+[linkedin]: https://www.linkedin.com/in/rafaelolal/
 [blogfolio]: https://ralmeida.dev/blog/portfolio
