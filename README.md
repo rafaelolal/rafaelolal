@@ -10,19 +10,6 @@
 
 <p align="center">
   </br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=rafaelolal&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-   
-  </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelolal&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight>
-  
-  </br>
-  </br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=rafaelolal&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=495&theme=tokyonight" />
