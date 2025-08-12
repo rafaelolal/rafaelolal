@@ -11,16 +11,22 @@
 <p align="center">
   </br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafaelolal&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=495&theme=tokyonight" />
-  </a>
-
+  ![Rafael's Streak](https://streak-stats.demolab.com/?user=rafaelolal&card_width=495&theme=tokyonight)
+  
+  </br>
+  </br>
+  
+  ![Rafael's Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelolal&layout=compact&theme=tokyonight)
+  
   </br>
   </br>
 
-  <a href="">
-    <img src="https://leetcode.card.workers.dev/rafaelolal?theme=dark&font=&extension=activity" />
-  </a>
+  ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelolal\&rank_icon=percentile&theme=tokyonight)
+  
+  </br>
+  </br>
+
+  ![Rafael's LeetCode Stats](https://leetcode.card.workers.dev/rafaelolal?theme=dark&font=&extension=activity)
 </p>
 
 [linkedin]: https://www.linkedin.com/in/rafaelolal/
